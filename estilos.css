@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    color: rgb(75, 73, 73);
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+section {
+    margin-left: 10%;
+    margin-right: 25%;
+    float: left;
+}
+
+div {
+    display: block;
+    top: 2%;
+    margin-left: 62%;
+    margin-top: 0%;
+}
+
+article {
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+legend {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(75, 73, 73);
+}
+
+hr{
+    color: gray;
+}
